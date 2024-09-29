@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mysql2": "^3.11.3",
+    "react-scripts": "^5.0.1",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
